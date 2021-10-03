@@ -1,0 +1,2 @@
+fence_scale: (6125/5380, 1, 1)
+concrete_fence_scale: (5380, 1, 1)
